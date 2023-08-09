@@ -63,7 +63,7 @@ header {
 
 /* Navigation */
 
-.nav-header {
+.nav-header .section {
   display: flex;
   align-items: center;
 }
