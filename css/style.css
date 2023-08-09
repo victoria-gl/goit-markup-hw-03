@@ -19,6 +19,35 @@ body {
   --brand-color: #434455;
 }
 
+/* Stylisation settings */
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0%;
+  margin: 0%;
+}
+
+li {
+  margin: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+
+img {
+  display: block;
+}
+
+.container {
+  width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
 /* header */
 
 header {
@@ -29,6 +58,12 @@ header {
 /* Navigation */
 
 .nav-header {
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .nav-link {
