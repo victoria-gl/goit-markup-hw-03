@@ -23,6 +23,7 @@ body {
 
 header {
   background: #ffffff;
+  border-bottom: 1px solid #e7e9fc;
 }
 
 /* Navigation */
