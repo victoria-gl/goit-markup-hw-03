@@ -434,6 +434,7 @@ address {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+  margin-bottom: 8px;
 }
 .portfolio-list-desc {
   color: #434455;
@@ -449,5 +450,5 @@ address {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
-  margin-bottom: 8px;
+  /* margin-bottom: 8px; */
 }
