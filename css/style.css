@@ -97,7 +97,6 @@ span {
 }
 
 .nav-list-item {
-  padding: 24px 0px;
 }
 
 .nav-list-link {
@@ -109,6 +108,7 @@ span {
   line-height: 1.5;
   letter-spacing: 0.32px;
   margin-right: 76px;
+  padding: 24px 0px;
 }
 
 .nav-list-link:hover,
