@@ -239,6 +239,7 @@ address {
 /* What we do  */
 
 .whatwedo {
+  padding-bottom: 120px;
 }
 .whatwedo-title {
   font-size: 36px;
@@ -248,10 +249,14 @@ address {
   color: #2e2f42;
   text-transform: capitalize;
   font-family: 'Roboto' sans-serif;
+  margin-bottom: 72px;
 }
 .whatwedo-list {
+  display: flex;
+  gap: 24px;
 }
 .whatwedo-list-item {
+  width: calc((100% - 48px) / 3);
 }
 
 /* Our Team */
