@@ -76,6 +76,7 @@ img {
 header {
   background: #ffffff;
   border-bottom: 1px solid #e7e9fc;
+  width: 1158px;
 }
 
 .header-container {
@@ -344,6 +345,7 @@ address {
 .footer {
   background-color: #2e2f42;
   padding: 100px 0;
+  width: 1158px;
 }
 
 .footer-link {
