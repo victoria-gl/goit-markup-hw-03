@@ -74,7 +74,6 @@ img {
 /* header */
 
 header {
-  background: #ffffff;
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -82,9 +81,6 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* width: 1158px; */
-  margin: 0 auto;
-  padding: 0 15px;
 }
 
 /* Navigation */
@@ -93,6 +89,7 @@ header {
   display: flex;
   align-items: center;
   padding: 24px 0;
+  /* gap: 40px; */
 }
 
 .nav-link {
@@ -121,6 +118,7 @@ span {
   letter-spacing: 0.32px;
   display: flex;
   gap: 40px;
+  margin-right: 332px;
 }
 
 .nav-list-item {
@@ -134,8 +132,6 @@ span {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.32px;
-  margin-right: 76px;
-  padding: 24px 0px;
 }
 
 .nav-list-link:hover,
@@ -298,7 +294,7 @@ address {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
-  margin: 72px;
+  margin-bottom: 72px;
 }
 .ourteam-list {
   display: flex;
